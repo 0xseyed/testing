@@ -27,3 +27,5 @@ for _ in range(10):
         print("\033[H\033[J") #
         print(frame)
         time.sleep(0.5)
+
++ /ssi
