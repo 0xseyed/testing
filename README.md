@@ -30,12 +30,6 @@ for _ in range(10):
 
 
 
-+ /ssi
-- hh
-
-
-
-
 + for _ in range(10):
     for frame in frames:
         print("\033[H\033[J") #
