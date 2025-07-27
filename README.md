@@ -30,4 +30,4 @@ for _ in range(10):
 
 
 
-+te ctrl
++te ctrl c
