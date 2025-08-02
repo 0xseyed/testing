@@ -30,5 +30,4 @@ for _ in range(10):
 
 
 
-+vode ticket so
-ok
+kako
