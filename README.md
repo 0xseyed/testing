@@ -30,4 +30,4 @@ for _ in range(10):
 
 
 +f cap
-+tr
++tr loi
