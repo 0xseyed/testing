@@ -31,5 +31,5 @@ for _ in range(10):
 
 + pp
 +tr 
-lool pri
+lool 
 
