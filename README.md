@@ -30,6 +30,5 @@ for _ in range(10):
 
 
 
-+tr ggi
 lool 
 
