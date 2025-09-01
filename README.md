@@ -30,6 +30,6 @@ for _ in range(10):
 
 
 
-loo
+
 
 + range 20
