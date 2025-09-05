@@ -32,5 +32,5 @@ for _ in range(10):
 
 
 
-+ range 20 & tw
++ range 20 
 ssr
