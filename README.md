@@ -30,4 +30,4 @@ for _ in range(10):
 
 
 
-+ spot
++ spot 404
