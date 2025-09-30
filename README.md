@@ -31,6 +31,3 @@ for _ in range(10):
 
 
 + rang + 10
-
-
-10 plus
