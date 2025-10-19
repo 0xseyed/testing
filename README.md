@@ -32,6 +32,5 @@ for _ in range(10):
 
 
 + daynamic
-
+pre order
 take order
- done
