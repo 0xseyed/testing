@@ -35,3 +35,4 @@ for _ in range(10):
 pre order
 cheking
 save date
+review
