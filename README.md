@@ -29,10 +29,4 @@ for _ in range(10):
         time.sleep(0.5)
 
 
-
-
-+ daynamic
-pre order
-cheking
-save date
-pending
+...
