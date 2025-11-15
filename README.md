@@ -32,4 +32,3 @@ for _ in range(10):
 full range
 save
 close range 
-la
