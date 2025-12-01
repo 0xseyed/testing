@@ -28,7 +28,7 @@ for _ in range(10):
         print(frame)
         time.sleep(0.5)
 
-active
+deactive
 full range
 save
 
