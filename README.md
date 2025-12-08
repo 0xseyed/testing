@@ -31,3 +31,4 @@ for _ in range(10):
 deactive
 full range
 save
+min
