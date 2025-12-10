@@ -32,3 +32,4 @@ deactive
 full range
 save
 soft
+chic
