@@ -32,4 +32,4 @@ deactive
 full range
 save
 soft
-goog
+
