@@ -32,4 +32,3 @@ deactive
 full range
 save
 soft
-tick
