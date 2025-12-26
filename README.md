@@ -1,6 +1,5 @@
 # testing
-
-# اسکریپت پایتون برای ایجاد انیمیشن ASCII
+for  ASCII animation
 import time
 
 frames = [
@@ -33,3 +32,4 @@ full range
 save
 soft
 
+gripe
