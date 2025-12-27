@@ -31,5 +31,3 @@ deactive
 full range
 save
 soft
-
-gripe
