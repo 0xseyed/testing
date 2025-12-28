@@ -31,3 +31,4 @@ deactive
 full range
 save
 soft
+long
