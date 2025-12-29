@@ -32,3 +32,4 @@ full range
 save
 soft
 long
+lo
