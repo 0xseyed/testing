@@ -31,4 +31,3 @@ deactive
 full range
 save
 soft
-load
